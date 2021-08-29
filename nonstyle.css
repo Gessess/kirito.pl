@@ -156,6 +156,10 @@ DIV.container b1 {
    padding-left: 20px
  }
 
+DIV.container a {
+   padding-left: 20px
+}
+
 DIV.displayed {
    text-align: left;
    padding-left: 20px
