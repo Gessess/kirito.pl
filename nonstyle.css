@@ -149,6 +149,6 @@ DIV.container b1 {
   font-family: Roboto;
   text-shadow:0 20 20px black;
   font-size:  20px; 
-  text-align: center;
+  text-align: left;
   display:inline-block;
  }
