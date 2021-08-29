@@ -151,3 +151,7 @@ DIV.container b1 {
   font-size:  20px; 
   text-align: left;
  }
+
+DIV.displayed {
+   text-align: left;
+}
