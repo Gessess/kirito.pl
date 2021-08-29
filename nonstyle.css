@@ -146,6 +146,16 @@ DIV.container h1 {
   text-align: center;
  display: inline-block;
 }
+
+DIV.container h2 {
+ font-family: Roboto;
+ font-size:  30px; 
+ background-color:rgb(109, 107, 255);
+  text-align: center;
+     border-radius: 20px;
+ display: inline-block;
+}
+
 DIV.container b1 {
   font-family: Roboto;
   text-shadow:0 20 20px black;
