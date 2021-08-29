@@ -127,7 +127,7 @@ footer h1 {
 DIV.container {
 font-family: roboto;
   justify-content: center;
-  font-size:  50px; 
+  font-size:  60px; 
   vertical-align: middle;
   color: rgb(0, 0, 0);
   
@@ -141,7 +141,7 @@ DIV.container img {
 
 DIV.container h1 {
  font-family: Roboto;
- font-size:  40px; 
+ font-size:  30px; 
   text-align: center;
  display: inline-block;
 }
