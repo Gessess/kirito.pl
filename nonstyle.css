@@ -146,4 +146,15 @@ DIV.container h1 {
  display: inline-block;
 }
 
+DIV.request {
+  justify-content: center;
+  font-size:  30px; 
+  color: rgb(0, 0, 0);
+  text-align: center;
+    display: inline-block;
+      border-radius: 20px;
+     border: 1px solid rgb(137, 165, 255);
+     background-color:rgb(86, 82, 150);
+}
+
 
