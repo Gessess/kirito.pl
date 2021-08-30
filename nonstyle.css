@@ -157,4 +157,12 @@ DIV.request {
      background-color:rgb(86, 82, 150);
 }
 
+DIV.request h1 {
+  justify-content: center;
+  font-size:  30px; 
+  color: rgb(0, 0, 0);
+  text-align: center;
+    display: inline-block;
+}
+
 
