@@ -151,6 +151,8 @@ DIV.request {
   font-size:  30px; 
   color: rgb(0, 0, 0);
   text-align: center;
+     width: 200px;
+  height: 50px;
     display: inline-block;
       border-radius: 20px;
      border: 1px solid rgb(137, 165, 255);
